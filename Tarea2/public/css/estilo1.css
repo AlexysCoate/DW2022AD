@@ -1,0 +1,16 @@
+p{
+    background-color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*. comportamiento a una calse determinada*/
+.clase1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+}
+
+/*# Característica a un id determinado*/
+#p9{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+}
